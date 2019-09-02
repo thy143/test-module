@@ -1,3 +1,3 @@
 output "instance_ip_addr" {
-  value = "tag"
+  value = "v2"
 }
